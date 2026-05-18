@@ -1,0 +1,17 @@
+--- CANDIDATE NER PROFILE (GLiNER v4.2) ---
+
+Candidate Name: James Carter
+
+Professional Summary: Experienced delivery driver with 4 years of professional driving i
+
+Job Titles Held: Senior Delivery Driver
+
+Technical Skills & Competencies: route planning, safe driving, delivery scheduling
+
+Education & Qualifications: UAE Light Vehicle Driving Licence
+
+Companies & Organisations: Aramex
+
+Career Timeline: March 2022 — Present, January 2021, February 2022, 2014 — 2018
+
+Languages: English, Arabic, Swahili
